@@ -1,7 +1,21 @@
-## Hello World 👋
+# Hi, I'm Zerigone 👋
 
-- 🔭 I’m currently working on refining my skills and learning new skills.
-- 🌱 I’m currently learning data science and DSA.
-- 👯 I’m looking to collaborate on projects based on AI and ML.
-- 📫 How to reach me: Discord - zerigone
-- 😄 Pronouns: He/Him
+Aspiring Data Scientist & Developer from India.
+
+## About Me
+
+| | |
+|---|---|
+| 🌱 Learning | Data Science, DSA |
+| 💻 Interested In | AI, ML, Open Source |
+| 🤝 Looking For | Collaboration on AI/ML projects |
+| 📫 Discord | zerigone |
+| 😄 Pronouns | He/Him |
+
+## Tech Stack
+
+- Python
+- Git
+- Linux
+
+> Keep learning, keep building.
