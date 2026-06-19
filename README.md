@@ -1,21 +1,16 @@
 # Hi, I'm Zerigone 👋
 
-Aspiring Data Scientist & Developer from India.
+### About Me
 
-## About Me
+- 🌱 Learning **Data Science** and **DSA**
+- 🤖 Interested in **AI**, **ML**, and **Open Source**
+- 🤝 Open to collaborating on AI/ML projects
+- 📫 Discord: `zerigone`
 
-| | |
-|---|---|
-| 🌱 Learning | Data Science, DSA |
-| 💻 Interested In | AI, ML, Open Source |
-| 🤝 Looking For | Collaboration on AI/ML projects |
-| 📫 Discord | zerigone |
-| 😄 Pronouns | He/Him |
+### Tech Stack
 
-## Tech Stack
-
-- Python
-- Git
-- Linux
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 > Keep learning, keep building.
