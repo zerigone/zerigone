@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 - 🔭 I’m currently working on refining my skills and learning new skills.
 - 🌱 I’m currently learning data science and DSA.
