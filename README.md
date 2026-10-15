@@ -2,9 +2,9 @@
 
 ### About Me
 
-Learning **Data Science** and **DSA**
-Interested in **AI**, **ML**, and **Open Source**
-Open to collaborating on AI/ML projects
+- Learning **Data Science** and **DSA**
+- Interested in **AI**, **ML**, and **Open Source**
+- Open to collaborating on AI/ML projects
 
 ### Tech Stack
 
